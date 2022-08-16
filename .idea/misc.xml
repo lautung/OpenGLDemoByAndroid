@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_image_filter.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1796875" />
+        <entry key="app/src/main/res/layout/activity_select.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/nativewindow_activity.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/menu/menu_filter.xml" value="0.37552083333333336" />
+        <entry key="app/src/main/res/menu/menu_preview.xml" value="0.37552083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="OpenGLDemo.app" />
+      </set>
+    </option>
+  </component>
+</project>
